@@ -26,7 +26,7 @@ public class SeparateList {
             }
 
         }
-        System.out.println("First name with odd number: " + nameWithOddLength);
+        System.out.println("First name with odd number: " + nameWithOddLength);//
 
     }
 
